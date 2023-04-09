@@ -1,4 +1,4 @@
-#Описание проекта NeuroStartUp
+# Описание проекта NeuroStartUp
 
 ![Логотип:](https://github.com/netology-ds-team/git-homeworks/raw/main/1_self/logo.png)
 
